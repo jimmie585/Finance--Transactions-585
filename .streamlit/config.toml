@@ -1,7 +1,8 @@
-
-primaryColor = "6C63FF"               # Dodger Blue (for buttons and highlights)
+[theme]
+primaryColor = "#1E90FF"               # Dodger Blue (for buttons and highlights)
 backgroundColor = "#f0faff"            # Very light blue (overall background)
 secondaryBackgroundColor = "#d0eaff"   # Pale blue (sidebar, cards)
 textColor = "#003366"                  # Navy text for readability
 font = "sans serif"
+
 
