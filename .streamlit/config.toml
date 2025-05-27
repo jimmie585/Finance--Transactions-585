@@ -1,6 +1,7 @@
-[theme]
-primaryColor = "#6C63FF"               # Light purple (accent)
-backgroundColor = "#f0f8ff"            # Alice blue / very light blue
-secondaryBackgroundColor = "#e6e6fa"   # Lavender
-textColor = "#1a1a2e"                  # Deep navy/black-blue text
+
+primaryColor = "6C63FF"               # Dodger Blue (for buttons and highlights)
+backgroundColor = "#f0faff"            # Very light blue (overall background)
+secondaryBackgroundColor = "#d0eaff"   # Pale blue (sidebar, cards)
+textColor = "#003366"                  # Navy text for readability
 font = "sans serif"
+
